@@ -1,0 +1,15 @@
+{
+  "name": "salestrads",
+  "version": "1.0.0",
+  "description": "Parse salesforce traductions",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "npm i",
+    "start": "node index.js"
+  },
+  "author": "Lilian H",
+  "license": "Altima",
+  "dependencies": {
+    "exceljs": "^1.6.2"
+  }
+}

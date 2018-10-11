@@ -1,0 +1,10 @@
+{
+	"export": {
+		"filename": "./traductions.xlsx"
+	},
+	"source": {
+		"default": "resources/",
+		"useDefault": false,
+		"extensionFilter": "\\.properties$"
+	}
+}
